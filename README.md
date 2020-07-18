@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-我的个人网站：[PhDLuffy](phdluffy.com)
+我的个人网站：[PhDLuffy](https://phdluffy.com)
