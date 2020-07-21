@@ -1,7 +1,6 @@
 name: Build README
 
-on:
-  push:
+on: push
 
 jobs:
   build:
