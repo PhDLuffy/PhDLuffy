@@ -1,107 +1,69 @@
-#! https://www.zhihu.com/answer/1307674463
+## Hello,World!
 
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Tw93，在阿里飞猪写前端，空闲也折腾 iOS / Python ，喜欢开源分享，**以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 每日自动更新**；
 
+<table>
+<tr>
+<td valign="top" width="50%">
 
-> **既然没有人愿意站出来唱唱反调，那我来吧。**
->
-> **------ 卢娜·洛夫古德**
+#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
 
-## 小孩子才做选择，大人选择都要。
+<!-- recent_releases starts -->
+* <a href='https://github.com/alibaba/form-render/releases/tag/v0.6.0' target='_blank'>form-render 众多便利更新</a> - 2020-07-20
+* <a href='https://github.com/tw93/tw93/releases/tag/V1.0' target='_blank'>tw93 首页信息流优化完成</a> - 2020-07-19
+* <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.1' target='_blank'>tw93.github.io 修复RSS报错</a> - 2020-07-18
+* <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/V0.2.1' target='_blank'>cz-emoji-chinese 完善使用文档</a> - 2020-07-18
+* <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.1' target='_blank'>MiaoYan 第一个可用版本</a> - 2020-05-28
+<!-- recent_releases ends -->
 
-目前存在的各种操作系统，还没有被淘汰的都有其一定的优势，否则早就被历史长河淹没掉了。
+</td>
+<td valign="top" width="50%">
 
-目前双修，Win10和MacOS都在用，我来给你亲身讲讲他们各自到底有哪些优势和痛点。
+#### 🤹‍♀️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
 
-![Win和MacOS双平台](https://raw.githubusercontent.com/PhDLuffy/PicGo/master/img/20200629142110.jpg)
+<!-- blog starts -->
+* <a href='https://tw93.github.io/2020-07-17/markdown.html' target='_blank'>Github 居然可以这么玩</a> - 2020-07-17
+* <a href='https://tw93.github.io/2020-06-28/zaozaoliao.html' target='_blank'>早早聊微前端专题分享</a> - 2020-06-28
+* <a href='https://tw93.github.io/2020-05-27/good-app.html' target='_blank'>我的 2020 🔥软件分享</a> - 2020-05-27
+* <a href='https://tw93.github.io/2020-04-21/one.html' target='_blank'>飞猪统一运营工作台的解决方案</a> - 2020-04-21
+* <a href='https://tw93.github.io/2020-03-30/serverless-two.html' target='_blank'>飞猪 Serverless 体系建设（S2）</a> - 2020-03-30
+<!-- blog ends -->
 
-### 屏幕字体显示
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-从一开始使用Win平台我就安装了Mac type和Chrome插件stylus+mactpye主题（早前安装stylish，后来弃用），虽然字体显示不再那么刺眼和别扭，但是终归跟Mac下的字体显示有天壤之别的差距，Mac下的字体显示清晰，看着舒服太多，加上Mac视网膜屏幕的加持，一个字，爽。
+#### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
 
-但是！
+<!-- code_time starts -->
 
-如果外接1080P或者2K屏幕，由于HiDPI无法正常开启，Mac下又会出现字体发虚，刺眼等Win下的毛病，为了好体验，还是尽量外接4K以上屏幕。
+```text
+Markdown     6 hrs 25 mins  ████████████░░░░░░░░  45.9%
+Python       2 hrs 17 mins  ██████░░░░░░░░░░░░░░  16.4%
+TypeScript    1 hr 14 mins  ████▓░░░░░░░░░░░░░░░   8.8%
+YAML                  1 hr  ████▒░░░░░░░░░░░░░░░   7.2%
+Swift              43 mins  ████░░░░░░░░░░░░░░░░   5.2%
+JSX                33 mins  ███▓░░░░░░░░░░░░░░░░   4.0%
+```
 
-### 自用软件平台差异
+<!-- code_time ends -->
 
-#### VSCODE+Anaconda+python+Lammps平台
+</td>
+<td valign="top" width="50%">
 
-Win和Mac下我都配置好了这一套平台来日常使用，对于Win，我在安装这套平台的时候遇到了不少的问题，特别是Anaconda在CMD中的调用，总是会出现python环境未激活，不是系统什么的blablabla，查了相关资料之后发现是因为Win下有什么动态调用什么的我也不太懂的东西，所以需要先运行prompt或者Anaconda再去调用cmd窗口，但是后面我都是用VSCODE里面的终端，目前没有什么大问题，可以正常使用。
+#### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
 
-![Win下CMD直接运行Python](https://raw.githubusercontent.com/PhDLuffy/PicGo/master/img/20200628133320.jpg)
+<!-- douban starts -->
+* <a href='https://book.douban.com/subject/26794026/' target='_blank'>最近在读超额收益</a> - 2020-07-19
+* <a href='https://book.douban.com/subject/1449351/' target='_blank'>想读呐喊</a> - 2020-07-19
+* <a href='https://book.douban.com/subject/1054685/' target='_blank'>想读沉默的大多数</a> - 2020-07-19
+* <a href='https://book.douban.com/subject/10554308/' target='_blank'>想读白夜行</a> - 2020-07-19
+* <a href='http://movie.douban.com/subject/1294019/' target='_blank'>看过监狱风云2：逃犯</a> - 2020-07-19
+<!-- douban ends -->
 
-而在Mac下就方便太多，安装好平台之后，终端运行python，直接就替换了系统自带的python，直接激活使用base环境，在VScode平台调用切换环境没有任何问题，方便直接，强迫症患者的福音。
+</td>
+  </tr>
+  </table>
 
-![Mac下运行python](https://raw.githubusercontent.com/PhDLuffy/PicGo/master/img/20200628133438.png)
-
-当然，也有可能是因为我对Win平台了解不够，希望大佬们能够劳驾讲解下为何Win和Mac平台下Anaconda会有这样的不同。虽然大部分情况下使用还是直接VScode的终端运行，且都没有问题，但是这个实在是让强迫症患者难受。
-
-#### VScode+LaTeX+Zotero平台
-
-为什么LaTeX要拉出来单独说，是因为不仅仅是win和mac平台不同，Linux平台也不一样，公认的使用LaTeX平台比较方便的是linux，而我Win下是VScode+texlive+LaTeX插件，Mac下是VScode+Mactex+LaTeX插件，使用到目前，并没有大问题，只有一点点强迫症无法释怀的小麻烦（也不算是问题），速度方面感觉差距不大，可能未来有什么大不同我还没有碰到吧。
-
-#### Homebrew，RVM，NVM等管理软件
-
-安装一些命令行软件，比如youtube-dl, aria2, JekyII，nodejs等，在Mac平台下，安装都没有问题，顺畅方便，不会出错，PATH的设定也很方便。
-
-而在Win下（也有可能是我孤陋寡闻，不熟悉），安装起来就麻烦多了，我基本上都是用anaconda的conda install去安装。
-
-在一些项目中，基本上Mac平台是我的主力平台。
-
-#### 设备间同步管理，imazing，罗技
-
-iPhone和iPad的管理基本上用imazing来管理，方便太多，系统自带的iTunes简直就是一坨屎。而Win下则有一些其他的软件来管理手机和平板，这方面因人而异，但是imazing是真的超级超级好用，推荐。键盘K380和鼠标M720可以通过罗技的软件方便的在Mac和Win在自由跨屏切换，还能跨屏复制粘贴，这是我的这两个平台间主要的通讯途径。
-
-#### 系统独享
-
-MacOS: FCP，Logic proX，Xcode, AltStore
-
-Win: 3ds Max, N卡驱动(CUDA框架)
-
-Mac下独享，没办法，MacOS独享软件，更有甚者为了这三个独享装黑苹果，拥有MacOS的同时，还能以较低的价格获得超越白苹果的硬件配置。
-
-同样，Win下独享的软件，Mac下也是望尘莫及，即使我装了PD（不是双系统，是Mac下非常非常推荐的虚拟机），虚拟机下的显卡驱动还是有这样那样的问题，比如SolidWorks和3DsMax卡顿运行缓慢（也有可能是我的mbp配置跟不上，开虚拟机跟Win下性能表现差的太多）
-
-新版本MacOS禁了N卡驱动，对于目前大火的机器学习，有需求的还是选择其他平台吧，或者使用旧版本的支持N卡驱动的MacOS，谁叫苹果非要推自家亲儿子Metal呢。。。。
-
-但是！
-
-Mac下用C4D和blender就没有这样的问题，流畅丝滑。
-
-所以有独享软件需求的，还是老老实实硬件双平台吧。
-
-#### 游戏
-
-游戏我放到最后来说，因为我已经过了那个激情澎湃又无处释放的年纪，找到了比游戏更好玩的，所以这方面我的需求是最低的，但是对于年轻人，如果想痛痛快快的玩游戏，就老老实实的选择PC平台或者PS，Xbox，Switch，因为无论是价格（Mac平台对于游戏来说典型的性价比超低），硬件性能还是游戏兼容性，各大游戏厂商也是把重点放在PC平台，Mac下基本就告别大游戏了，散热不行，CPUGPU高温降频，游戏驱动不行，除了屏幕素质，没有一项可以跟Win打。
-
-但是
-
-对于我来说，平常也就怀怀旧，打打模拟器游戏，此时Mac的优势来了，OpenEmu的存在，让MacOS焕发了第二春，对Metal的加持，使得各种经典掌机，街机甚至主机老平台的模拟也不在话下，当然，Win，安卓，iOS下Retroarch的存在，使得他们也能很轻松的模拟各种经典掌机，街机，主机老平台。
-
-**不过目前已经转战ipad+retroarch+xboxones手柄,iOS13下xboxones手柄变成了mFI设备，玩起来真香啊**
-
-![iPhone下Delta模拟GB平台口袋妖股蓝](https://raw.githubusercontent.com/PhDLuffy/PicGo/master/img/20200628141315.jpg)
-
-所以游戏性因人而异，喜欢3A大作的选择PC，Xbox，PS，Switch平台，喜欢小游戏，掌机街机主机老平台怀旧模拟的可以选择Mac平台
-
-![iPad+Xboxones手柄+retroarch模拟器](https://raw.githubusercontent.com/PhDLuffy/PicGo/master/img/20200628141700.JPG)
-
-#### 总结
-
-去无脑的只推一个平台是一种很无聊的举动，各个平台都有其一定的优势，就看这些优势哪些是你所看重的，假如你都看重，那就都要吧。
-
-毕竟
-
-## 小孩子才做选择，大人选择都要。
-
-### 相关阅读：
-
-[《哈利波特》里有哪些很污的片段？](https://www.zhihu.com/question/386132327/answer/1140862125 "card")
-
-[赫敏.格兰杰没有女性朋友吗？](https://www.zhihu.com/question/390424837/answer/1191466637 "card")
-
-[一个小发现，赫敏会不会喜欢马尔福啊？](https://www.zhihu.com/answer/1302623044 "card")
-
-![](https://raw.githubusercontent.com/PhDLuffy/PicGo/master/img/20200625172316.gif)
-
-![](https://raw.githubusercontent.com/PhDLuffy/PicGo/master/img/20200625172726.jpg)
+📮 毕业以来，有幸在飞猪负责过无障碍、 Weex、互动技术、Serverless、微前端一体化体系化建设，很欢迎纯技术探讨；目前带一个 10 人的<a href="https://img.alicdn.com/tfs/TB1svLYObr1gK0jSZFDXXb9yVXa-4032-2268.jpg" target="_blank">友爱团队</a>，<span style="color:#EE722E">**正急招 P6，对于想进阿里的同学机会难得</span>，很欢迎加入一起折腾 <tw102972@alibaba-inc.com>**
