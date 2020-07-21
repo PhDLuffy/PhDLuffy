@@ -19,7 +19,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🤹‍♀️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
+#### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
 * <a href='https://tw93.github.io/2020-07-17/markdown.html' target='_blank'>Github 居然可以这么玩</a> - 2020-07-17
