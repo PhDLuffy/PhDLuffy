@@ -1,6 +1,14 @@
 name: Build README
 
+<<<<<<< HEAD
 on: push
+=======
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 0 * * *'
+>>>>>>> parent of b0591b4... Update build.yml
 
 jobs:
   build:
