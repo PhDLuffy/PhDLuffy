@@ -22,3 +22,5 @@
 
 </td>
 </table>
+
+![多比点赞手势](https://raw.githubusercontent.com/PhDLuffy/PicGo/master/img/多比.gif)
