@@ -16,6 +16,8 @@
 * <a href='https://PhDLuffy.github.io/2020/04/22/%E8%B5%AB%E6%95%8F.%E6%A0%BC%E5%85%B0%E6%9D%B0%E6%B2%A1%E6%9C%89%E5%A5%B3%E6%80%A7%E6%9C%8B%E5%8F%8B%E5%90%97/' target='_blank'>赫敏.格兰杰没有女性朋友吗？</a>
 * <a href='https://PhDLuffy.github.io/2020/04/22/%E5%93%88%E5%88%A9-%E6%B3%A2%E7%89%B9-%E4%B8%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E5%93%88%E5%88%A9%E6%9C%80%E5%90%8E%E5%92%8C%E9%87%91%E5%A6%AE%E5%9C%A8%E4%B8%80%E8%B5%B7%E8%80%8C%E4%B8%8D%E6%98%AF%E8%B5%AB%E6%95%8F/' target='_blank'>《哈利·波特》中为什么哈利最后和金妮在一起而不是赫敏？</a>
 * <a href='https://PhDLuffy.github.io/2020/04/21/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E4%B8%8E%E7%81%AB%E7%84%B0%E6%9D%AF%E4%B8%AD%E5%BC%80%E5%A4%B4%E5%86%99%E7%9A%84%E9%87%8C%E5%BE%B7%E5%B0%94%E4%B8%80%E5%AE%B6-%E8%B7%9F%E4%BC%8F%E5%9C%B0%E9%AD%94%E6%9C%89%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB/' target='_blank'>哈利波特与火焰杯中开头写的里德尔一家，跟伏地魔有什么关系？</a>
+* <a href='https://PhDLuffy.github.io/2020/04/21/%E4%BD%A0%E4%BC%9A%E9%80%89%E6%8B%A9-%E5%93%88%E5%88%A9-%E6%B3%A2%E7%89%B9-%E4%B8%AD%E7%9A%84%E8%B0%81%E5%81%9A%E4%BC%B4%E4%BE%A3/' target='_blank'>你会选择《哈利·波特》中的谁做伴侣？</a>
+* <a href='https://PhDLuffy.github.io/2020/04/20/%E8%B0%81%E8%83%BD%E5%91%8A%E8%AF%89%E6%88%91%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E4%B8%AD-%E6%9C%80%E5%90%8E%E5%A7%A8%E5%A6%88%E4%B8%80%E5%AE%B6%E5%AD%90%E6%80%8E%E4%B9%88%E4%BC%9A%E5%8F%98%E5%A5%BD/' target='_blank'>谁能告诉我哈利波特中，最后姨妈一家子怎么会变好？</a>
 <!-- blog ends -->
 
 </td>
