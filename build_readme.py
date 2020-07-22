@@ -122,7 +122,7 @@ def fetch_blog_entries():
         {
             "title": entry["title"],
             "url": entry["link"].split("#")[0],
-            "published": entry["published"].split("T")[0],
+            "pubDate": entry["pubDate"].split("T")[0],
         }
         for entry in entries
     ]
@@ -175,7 +175,7 @@ if __name__ == "__main__":
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
-        ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**entry) for entry in entries]
+        ["* <a href='{url}' target='_blank'>{title}</a> - {pubDate}".format(**entry) for entry in entries]
     )
     rewritten = replace_chunk(rewritten, "blog", entries_md)
 
