@@ -120,11 +120,11 @@ def fetch_blog_entries():
     entries = feedparser.parse("https://phdluffy.com/feed.xml")["entries"]
     return [
         {
-            "title": item["title"],
-            "url": item["link"].split("#")[0],
-            "published": item["pubDate"].split("T")[0],
+            "title": entry["title"],
+            "url": entry["link"].split("#")[0],
+            "published": entry["published"].split("T")[0],
         }
-        for item in entries
+        for entry in entries
     ]
 
 
