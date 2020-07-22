@@ -5,7 +5,7 @@
 <table>
 
 
-<td>
+
 
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">Recent Blog</a>
 
@@ -17,7 +17,7 @@
 * <a href='https://PhDLuffy.github.io/2020/04/30/JK%E7%BD%97%E7%90%B3%E5%85%B3%E4%BA%8E%E7%88%B1%E6%83%85%E7%9A%84%E6%8F%8F%E5%86%99%E6%98%AF%E5%90%A6%E6%9C%89%E6%89%80%E6%AC%A0%E7%BC%BA-%E4%BB%85%E9%99%90%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9/' target='_blank'>JK罗琳关于爱情的描写是否有所欠缺（仅限哈利波特）？</a>
 <!-- blog ends -->
 
-</td>
+
 
 
   </table>
