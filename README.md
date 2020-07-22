@@ -5,7 +5,7 @@
 <table>
 <td>
 
-#### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">Recent Blog</a>
+#### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com） Recent Blog</a>
 
 <!-- blog starts -->
 * <a href='https://PhDLuffy.github.io/2020/06/28/win10%E6%8C%BA%E5%A5%BD%E7%94%A8%E7%9A%84-%E4%B8%80%E7%82%B9%E4%B8%8D%E5%8D%A1-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA%E4%B9%B0Macbook%E5%91%A2/' target='_blank'>win10挺好用的，一点不卡，为什么有那么多人买Macbook呢？</a>
