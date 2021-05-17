@@ -8,6 +8,8 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2021/05/15/%E4%BD%9C%E4%B8%BA%E8%B5%84%E6%B7%B1Mac%E7%94%A8%E6%88%B7-%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BD%A0%E7%9B%B8%E8%A7%81%E6%81%A8%E6%99%9A%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%80%BC%E5%BE%97%E6%8E%A8%E8%8D%90/' target='_blank'>作为资深Mac用户，有哪些你相见恨晚的软件值得推荐</a>
+* <a href='https://PhDLuffy.github.io/2021/05/04/%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC/' target='_blank'>人间失格</a>
 * <a href='https://PhDLuffy.github.io/2021/01/14/%E6%8C%AA%E5%A8%81%E7%9A%84%E6%A3%AE%E6%9E%97/' target='_blank'>挪威的森林？Norwegian Wood？Knowing She would.</a>
 * <a href='https://PhDLuffy.github.io/2021/01/09/%E5%BD%93%E6%88%91%E8%B0%88%E8%B7%91%E6%AD%A5%E6%97%B6-%E6%88%91%E8%B0%88%E4%BA%9B%E4%BB%80%E4%B9%88/' target='_blank'>当我谈跑步时，我谈些什么？</a>
 * <a href='https://PhDLuffy.github.io/2020/12/13/%E8%B5%AB%E6%95%8F%E5%B4%87%E6%8B%9C%E6%B4%9B%E5%93%88%E7%89%B9%E8%BF%99%E4%B8%80%E6%83%85%E8%8A%82%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8%E6%84%8F%E5%91%A2/' target='_blank'>赫敏崇拜洛哈特这一情节有什么用意呢？</a>
@@ -16,8 +18,6 @@
 * <a href='https://PhDLuffy.github.io/2020/08/19/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91-IPHONE%E4%BC%A0%E4%B8%AA%E6%96%87%E4%BB%B6%E9%82%A3%E4%B9%88%E8%B4%B9%E5%8A%B2-%E8%BF%98%E8%A2%AB%E5%A4%B8%E5%A5%96%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E5%A5%BD/' target='_blank'>为什么苹果电脑、IPHONE传个文件那么费劲，还被夸奖用户体验好？</a>
 * <a href='https://PhDLuffy.github.io/2020/07/31/%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%81%AB%E7%AE%AD%E5%B0%91%E5%A5%B3%E6%88%90%E5%91%98-Yamy-%E7%9A%84%E9%A2%9C%E5%80%BC/' target='_blank'>如何评价火箭少女成员 Yamy 的颜值？</a>
 * <a href='https://PhDLuffy.github.io/2020/06/28/win10%E6%8C%BA%E5%A5%BD%E7%94%A8%E7%9A%84-%E4%B8%80%E7%82%B9%E4%B8%8D%E5%8D%A1-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA%E4%B9%B0Macbook%E5%91%A2/' target='_blank'>win10挺好用的，一点不卡，为什么有那么多人买Macbook呢？</a>
-* <a href='https://PhDLuffy.github.io/2020/06/25/%E5%B9%B3%E5%BF%83%E8%80%8C%E8%AE%BA-%E5%B0%8F%E5%A4%A9%E7%8B%BC%E6%98%9F%E5%AF%B9%E5%85%8B%E5%88%A9%E5%88%87%E7%9A%84%E6%80%81%E5%BA%A6%E9%9D%9E%E5%B8%B8%E6%81%B6%E5%8A%A3%E5%90%97-%E7%9B%B8%E8%BE%83%E4%BA%8E%E5%85%8B%E5%88%A9%E5%88%87%E5%AF%B9%E4%BB%96/' target='_blank'>平心而论，小天狼星对克利切的态度非常恶劣吗（相较于克利切对他）？</a>
-* <a href='https://PhDLuffy.github.io/2020/06/25/%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%8F%91%E7%8E%B0-%E8%B5%AB%E6%95%8F%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%96%9C%E6%AC%A2%E9%A9%AC%E5%B0%94%E7%A6%8F%E5%95%8A/' target='_blank'>一个小发现，赫敏会不会喜欢马尔福啊？</a>
 <!-- blog ends -->
 
 </td>
