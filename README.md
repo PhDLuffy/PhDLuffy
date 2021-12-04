@@ -18,6 +18,16 @@
 * <a href='https://PhDLuffy.github.io/2021/06/25/%E7%99%BD%E9%B9%BF%E5%8E%9F-%E4%B8%AD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%9C%87%E6%92%BC%E4%BD%A0%E7%9A%84%E7%BB%86%E8%8A%82/' target='_blank'>《白鹿原》中有哪些震撼你的细节？</a>
 * <a href='https://PhDLuffy.github.io/2021/06/19/Vlog08-%E8%91%A1%E8%90%84%E7%89%99%E9%87%8C%E6%96%AF%E6%9C%AC%E4%B8%89%E5%A4%A7%E5%8D%87%E9%99%8D%E6%9C%BA/' target='_blank'>Vlog08 葡萄牙里斯本三大升降机</a>
 * <a href='https://PhDLuffy.github.io/2021/06/06/%E6%B2%89%E9%9D%99%E5%A6%82%E6%B5%B7The-Silence-of-the-Sea/' target='_blank'>沉静如海 The Silence of the Sea</a>
+* <a href='https://PhDLuffy.github.io/2021/05/30/Vlog07-%E6%97%B6%E5%85%89%E6%9C%BA-%E6%AD%A6%E6%B1%89happy%E6%B8%B8/' target='_blank'>Vlog07 【时光机】武汉happy游</a>
+* <a href='https://PhDLuffy.github.io/2021/05/20/520%E5%86%99%E7%82%B9%E4%BB%80%E4%B9%88/' target='_blank'>520写点什么</a>
+* <a href='https://PhDLuffy.github.io/2021/05/15/%E4%BD%9C%E4%B8%BA%E8%B5%84%E6%B7%B1Mac%E7%94%A8%E6%88%B7-%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BD%A0%E7%9B%B8%E8%A7%81%E6%81%A8%E6%99%9A%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%80%BC%E5%BE%97%E6%8E%A8%E8%8D%90/' target='_blank'>作为资深Mac用户，有哪些你相见恨晚的软件值得推荐</a>
+* <a href='https://PhDLuffy.github.io/2021/05/04/%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC/' target='_blank'>人间失格</a>
+* <a href='https://PhDLuffy.github.io/2021/01/26/Vlog06-%E6%BB%91%E9%81%93%E6%BB%91%E8%A1%8C%E5%90%AC%E6%AD%8C%E5%90%91/' target='_blank'>Vlog06 滑道滑行听歌向</a>
+* <a href='https://PhDLuffy.github.io/2021/01/14/%E6%8C%AA%E5%A8%81%E7%9A%84%E6%A3%AE%E6%9E%97/' target='_blank'>挪威的森林？Norwegian Wood？Knowing She would.</a>
+* <a href='https://PhDLuffy.github.io/2021/01/09/%E5%BD%93%E6%88%91%E8%B0%88%E8%B7%91%E6%AD%A5%E6%97%B6-%E6%88%91%E8%B0%88%E4%BA%9B%E4%BB%80%E4%B9%88/' target='_blank'>当我谈跑步时，我谈些什么？</a>
+* <a href='https://PhDLuffy.github.io/2020/12/13/%E8%B5%AB%E6%95%8F%E5%B4%87%E6%8B%9C%E6%B4%9B%E5%93%88%E7%89%B9%E8%BF%99%E4%B8%80%E6%83%85%E8%8A%82%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8%E6%84%8F%E5%91%A2/' target='_blank'>赫敏崇拜洛哈特这一情节有什么用意呢？</a>
+* <a href='https://PhDLuffy.github.io/2020/12/13/Vlog05-%E5%AD%A6%E6%A0%A1%E7%90%83%E5%9C%BA%E6%AF%8F%E5%91%A8%E4%BE%8B%E8%A1%8C%E7%BE%BD%E6%AF%9B%E7%90%83/' target='_blank'>Vlog05 学校球场每周例行羽毛球</a>
+* <a href='https://PhDLuffy.github.io/2020/10/12/Vlog04-%E6%97%B6%E5%85%89%E6%9C%BA-%E5%8E%BB%E5%90%83%E8%B4%9D%E4%BC%A6%E8%9B%8B%E6%8C%9E~%E6%AD%A3%E5%AE%97%E7%9A%84%E8%91%A1%E5%BC%8F%E8%9B%8B%E6%8C%9E/' target='_blank'>Vlog04 【时光机】去吃贝伦蛋挞~正宗的葡式蛋挞</a>
 <!-- blog ends -->
 
 </td>
