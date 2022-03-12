@@ -8,6 +8,7 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2022/03/11/PS3%E5%88%A9%E7%94%A8Hen%E6%BF%80%E6%B4%BBmultiman%E5%AE%89%E8%A3%85%E6%B8%B8%E6%88%8F/' target='_blank'>PS3利用Hen激活multiman安装游戏</a>
 * <a href='https://PhDLuffy.github.io/2022/03/07/%E7%BE%A4%E6%99%96%E5%88%A9%E7%94%A8Docker%E5%B0%86%E6%83%A0%E6%99%AEP1106%E5%8F%98%E8%BA%AB%E6%97%A0%E7%BA%BF%E6%89%93%E5%8D%B0%E6%9C%BA%E5%B9%B6%E6%94%AF%E6%8C%81airprint/' target='_blank'>群晖下利用Docker将惠普P1106变身无线打印机并支持airprint？</a>
 * <a href='https://PhDLuffy.github.io/2022/03/01/%E5%9C%88X-v2rayN%E6%A0%BC%E5%BC%8Fvmess%E8%8A%82%E7%82%B9%E6%B7%BB%E5%8A%A0/' target='_blank'>QuantumultX中v2rayN格式vmess节点添加</a>
 * <a href='https://PhDLuffy.github.io/2022/01/07/OpenSea%E5%85%8D%E8%B4%B9%E5%88%B6%E4%BD%9C%E5%B9%B6%E5%8F%91%E5%B8%83NFT/' target='_blank'>OpenSea免费制作并发布NFT</a>
@@ -27,7 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2021/05/04/%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC/' target='_blank'>人间失格</a>
 * <a href='https://PhDLuffy.github.io/2021/01/26/Vlog06-%E6%BB%91%E9%81%93%E6%BB%91%E8%A1%8C%E5%90%AC%E6%AD%8C%E5%90%91/' target='_blank'>Vlog06 滑道滑行听歌向</a>
 * <a href='https://PhDLuffy.github.io/2021/01/14/%E6%8C%AA%E5%A8%81%E7%9A%84%E6%A3%AE%E6%9E%97/' target='_blank'>挪威的森林？Norwegian Wood？Knowing She would.</a>
-* <a href='https://PhDLuffy.github.io/2021/01/09/%E5%BD%93%E6%88%91%E8%B0%88%E8%B7%91%E6%AD%A5%E6%97%B6-%E6%88%91%E8%B0%88%E4%BA%9B%E4%BB%80%E4%B9%88/' target='_blank'>当我谈跑步时，我谈些什么？</a>
 <!-- blog ends -->
 
 </td>
