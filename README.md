@@ -8,6 +8,7 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2022/04/14/quest2-black-screen-sensor/' target='_blank'>Quest2死亡黑屏解决方法</a>
 * <a href='https://PhDLuffy.github.io/2022/04/08/monitor-hdmi-dp-hdcp/' target='_blank'>比线团还乱的显示器和设备连接线</a>
 * <a href='https://PhDLuffy.github.io/2022/04/07/synology-docker-qinglong-jd/' target='_blank'>黑群晖Docker青龙面板薅京东羊毛</a>
 * <a href='https://PhDLuffy.github.io/2022/04/01/xiaomi4a-gigabit-openwrt-bridge/' target='_blank'>Openwrt旁路由桥接模式设置</a>
@@ -27,7 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2021/06/06/%E6%B2%89%E9%9D%99%E5%A6%82%E6%B5%B7The-Silence-of-the-Sea/' target='_blank'>沉静如海 The Silence of the Sea</a>
 * <a href='https://PhDLuffy.github.io/2021/05/30/Vlog07-%E6%97%B6%E5%85%89%E6%9C%BA-%E6%AD%A6%E6%B1%89happy%E6%B8%B8/' target='_blank'>Vlog07 【时光机】武汉happy游</a>
 * <a href='https://PhDLuffy.github.io/2021/05/20/520%E5%86%99%E7%82%B9%E4%BB%80%E4%B9%88/' target='_blank'>520写点什么</a>
-* <a href='https://PhDLuffy.github.io/2021/05/15/%E4%BD%9C%E4%B8%BA%E8%B5%84%E6%B7%B1Mac%E7%94%A8%E6%88%B7-%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BD%A0%E7%9B%B8%E8%A7%81%E6%81%A8%E6%99%9A%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%80%BC%E5%BE%97%E6%8E%A8%E8%8D%90/' target='_blank'>作为资深Mac用户，有哪些你相见恨晚的软件值得推荐</a>
 <!-- blog ends -->
 
 </td>
