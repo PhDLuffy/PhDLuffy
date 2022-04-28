@@ -8,6 +8,7 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2022/04/27/Vlog-Portugal-moorish-castle/' target='_blank'>Vlog11 葡萄牙辛特拉摩尔城堡</a>
 * <a href='https://PhDLuffy.github.io/2022/04/14/quest2-black-screen-sensor/' target='_blank'>Quest2死亡黑屏解决方法</a>
 * <a href='https://PhDLuffy.github.io/2022/04/08/monitor-hdmi-dp-hdcp/' target='_blank'>比线团还乱的显示器和设备连接线</a>
 * <a href='https://PhDLuffy.github.io/2022/04/07/synology-docker-qinglong-jd/' target='_blank'>黑群晖Docker青龙面板薅京东羊毛</a>
@@ -27,7 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2021/06/19/Vlog08-%E8%91%A1%E8%90%84%E7%89%99%E9%87%8C%E6%96%AF%E6%9C%AC%E4%B8%89%E5%A4%A7%E5%8D%87%E9%99%8D%E6%9C%BA/' target='_blank'>Vlog08 葡萄牙里斯本三大升降机</a>
 * <a href='https://PhDLuffy.github.io/2021/06/06/%E6%B2%89%E9%9D%99%E5%A6%82%E6%B5%B7The-Silence-of-the-Sea/' target='_blank'>沉静如海 The Silence of the Sea</a>
 * <a href='https://PhDLuffy.github.io/2021/05/30/Vlog07-%E6%97%B6%E5%85%89%E6%9C%BA-%E6%AD%A6%E6%B1%89happy%E6%B8%B8/' target='_blank'>Vlog07 【时光机】武汉happy游</a>
-* <a href='https://PhDLuffy.github.io/2021/05/20/520%E5%86%99%E7%82%B9%E4%BB%80%E4%B9%88/' target='_blank'>520写点什么</a>
 <!-- blog ends -->
 
 </td>
