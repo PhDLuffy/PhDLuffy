@@ -8,6 +8,7 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2022/07/18/synology-docker-compose-xuexiqiangguo/' target='_blank'>群晖Docker安装容器之docker-compose方法</a>
 * <a href='https://PhDLuffy.github.io/2022/06/08/Vlog-Portugal-Cape-Roca/' target='_blank'>Vlog12 【时光机】那年夏天宁静的罗卡角</a>
 * <a href='https://PhDLuffy.github.io/2022/04/27/Vlog-Portugal-moorish-castle/' target='_blank'>Vlog11 葡萄牙辛特拉摩尔城堡</a>
 * <a href='https://PhDLuffy.github.io/2022/04/14/quest2-black-screen-sensor/' target='_blank'>Quest2死亡黑屏解决方法</a>
@@ -27,7 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2021/07/03/Vlog09-%E6%97%B6%E5%85%89%E6%9C%BA-%E8%91%A1%E8%90%84%E7%89%99%E8%BE%9B%E7%89%B9%E6%8B%89%E7%9A%87%E5%AE%AB/' target='_blank'>Vlog09 葡萄牙辛特拉皇宫</a>
 * <a href='https://PhDLuffy.github.io/2021/06/25/%E7%99%BD%E9%B9%BF%E5%8E%9F-%E4%B8%AD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%9C%87%E6%92%BC%E4%BD%A0%E7%9A%84%E7%BB%86%E8%8A%82/' target='_blank'>《白鹿原》中有哪些震撼你的细节？</a>
 * <a href='https://PhDLuffy.github.io/2021/06/19/Vlog08-%E8%91%A1%E8%90%84%E7%89%99%E9%87%8C%E6%96%AF%E6%9C%AC%E4%B8%89%E5%A4%A7%E5%8D%87%E9%99%8D%E6%9C%BA/' target='_blank'>Vlog08 葡萄牙里斯本三大升降机</a>
-* <a href='https://PhDLuffy.github.io/2021/06/06/%E6%B2%89%E9%9D%99%E5%A6%82%E6%B5%B7The-Silence-of-the-Sea/' target='_blank'>沉静如海 The Silence of the Sea</a>
 <!-- blog ends -->
 
 </td>
