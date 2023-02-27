@@ -8,6 +8,8 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2023/02/26/xiaomi-miot-home-assistant/' target='_blank'>小米智能家居在home-assistant中更新</a>
+* <a href='https://PhDLuffy.github.io/2023/02/26/test/' target='_blank'>测试生成</a>
 * <a href='https://PhDLuffy.github.io/2023/01/05/quicklook-plugins/' target='_blank'>QuickLook以及插件安装</a>
 * <a href='https://PhDLuffy.github.io/2022/07/18/synology-docker-compose-xuexiqiangguo/' target='_blank'>群晖Docker安装容器之docker-compose方法</a>
 * <a href='https://PhDLuffy.github.io/2022/06/08/Vlog-Portugal-Cape-Roca/' target='_blank'>Vlog12 【时光机】那年夏天宁静的罗卡角</a>
@@ -26,8 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2021/09/07/%E4%B8%AA%E4%BA%BA%E5%BC%80%E5%8F%91Apple-Watch%E5%BA%94%E7%94%A8-%E7%BF%BB%E7%BF%BBFran/' target='_blank'>个人开发Apple Watch应用-“翻翻Fran”</a>
 * <a href='https://PhDLuffy.github.io/2021/09/04/Vlog10-%E6%97%B6%E5%85%89%E6%9C%BA-%E8%91%A1%E8%90%84%E7%89%99%E9%9B%B7%E5%8A%A0%E8%8E%B1%E6%8B%89%E5%AE%AB/' target='_blank'>Vlog10 【时光机】葡萄牙雷加莱拉宫</a>
 * <a href='https://PhDLuffy.github.io/2021/08/03/%E4%B8%AA%E4%BA%BA%E5%BC%80%E5%8F%91Apple-Watch%E5%BA%94%E7%94%A8-%E5%9C%9F%E5%91%B3%E6%83%85%E8%AF%9D/' target='_blank'>个人开发Apple Watch应用-“土味情话”</a>
-* <a href='https://PhDLuffy.github.io/2021/07/03/Vlog09-%E6%97%B6%E5%85%89%E6%9C%BA-%E8%91%A1%E8%90%84%E7%89%99%E8%BE%9B%E7%89%B9%E6%8B%89%E7%9A%87%E5%AE%AB/' target='_blank'>Vlog09 葡萄牙辛特拉皇宫</a>
-* <a href='https://PhDLuffy.github.io/2021/06/25/%E7%99%BD%E9%B9%BF%E5%8E%9F-%E4%B8%AD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%9C%87%E6%92%BC%E4%BD%A0%E7%9A%84%E7%BB%86%E8%8A%82/' target='_blank'>《白鹿原》中有哪些震撼你的细节？</a>
 <!-- blog ends -->
 
 </td>
