@@ -8,8 +8,8 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2023/02/27/meta-quest2-air-screen/' target='_blank'>Quest2无法投屏到iPhone频繁断触无法连接</a>
 * <a href='https://PhDLuffy.github.io/2023/02/26/xiaomi-miot-home-assistant/' target='_blank'>小米智能家居在home-assistant中更新</a>
-* <a href='https://PhDLuffy.github.io/2023/02/26/test/' target='_blank'>测试生成</a>
 * <a href='https://PhDLuffy.github.io/2023/01/05/quicklook-plugins/' target='_blank'>QuickLook以及插件安装</a>
 * <a href='https://PhDLuffy.github.io/2022/07/18/synology-docker-compose-xuexiqiangguo/' target='_blank'>群晖Docker安装容器之docker-compose方法</a>
 * <a href='https://PhDLuffy.github.io/2022/06/08/Vlog-Portugal-Cape-Roca/' target='_blank'>Vlog12 【时光机】那年夏天宁静的罗卡角</a>
