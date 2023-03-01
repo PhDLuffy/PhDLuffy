@@ -8,6 +8,8 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2023/03/01/anki-obsidian/' target='_blank'>Anki与Obsidian联动制卡</a>
+* <a href='https://PhDLuffy.github.io/2023/02/28/xui-v2ray-vmess-vless-trojan/' target='_blank'>X-UI添加节点</a>
 * <a href='https://PhDLuffy.github.io/2023/02/27/meta-quest2-air-screen/' target='_blank'>Quest2无法投屏到iPhone频繁断触无法连接</a>
 * <a href='https://PhDLuffy.github.io/2023/02/26/xiaomi-miot-home-assistant/' target='_blank'>小米智能家居在home-assistant中更新</a>
 * <a href='https://PhDLuffy.github.io/2023/01/05/quicklook-plugins/' target='_blank'>QuickLook以及插件安装</a>
@@ -26,8 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2021/09/24/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9-%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92-%E6%89%8B%E6%B8%B8%E8%83%BD%E7%81%AB%E5%A4%9A%E4%B9%85/' target='_blank'>《哈利波特：魔法觉醒》手游能火多久？</a>
 * <a href='https://PhDLuffy.github.io/2021/09/24/Python%E5%A4%84%E7%90%86JSON%E6%A0%BC%E5%BC%8F%E6%96%87%E4%BB%B6/' target='_blank'>Python处理JSON格式文件</a>
 * <a href='https://PhDLuffy.github.io/2021/09/07/%E4%B8%AA%E4%BA%BA%E5%BC%80%E5%8F%91Apple-Watch%E5%BA%94%E7%94%A8-%E7%BF%BB%E7%BF%BBFran/' target='_blank'>个人开发Apple Watch应用-“翻翻Fran”</a>
-* <a href='https://PhDLuffy.github.io/2021/09/04/Vlog10-%E6%97%B6%E5%85%89%E6%9C%BA-%E8%91%A1%E8%90%84%E7%89%99%E9%9B%B7%E5%8A%A0%E8%8E%B1%E6%8B%89%E5%AE%AB/' target='_blank'>Vlog10 【时光机】葡萄牙雷加莱拉宫</a>
-* <a href='https://PhDLuffy.github.io/2021/08/03/%E4%B8%AA%E4%BA%BA%E5%BC%80%E5%8F%91Apple-Watch%E5%BA%94%E7%94%A8-%E5%9C%9F%E5%91%B3%E6%83%85%E8%AF%9D/' target='_blank'>个人开发Apple Watch应用-“土味情话”</a>
 <!-- blog ends -->
 
 </td>
