@@ -8,6 +8,7 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2023/03/02/alipay-appstore-giftcard/' target='_blank'>手机支付宝也能购买美区充值卡啦</a>
 * <a href='https://PhDLuffy.github.io/2023/03/01/anki-obsidian/' target='_blank'>Anki与Obsidian联动制卡</a>
 * <a href='https://PhDLuffy.github.io/2023/02/28/xui-v2ray-vmess-vless-trojan/' target='_blank'>X-UI添加节点</a>
 * <a href='https://PhDLuffy.github.io/2023/02/27/meta-quest2-air-screen/' target='_blank'>Quest2无法投屏到iPhone频繁断触无法连接</a>
@@ -27,7 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2021/12/03/%E5%86%AC%E5%A4%A9%E5%86%B2%E5%87%BA%E4%B8%80%E6%9D%AF%E6%9A%96%E6%9A%96%E7%9A%84%E5%AE%8C%E7%BE%8E%E8%B1%86%E6%B5%86/' target='_blank'>冬天冲出一杯暖暖的完美豆浆</a>
 * <a href='https://PhDLuffy.github.io/2021/09/24/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9-%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92-%E6%89%8B%E6%B8%B8%E8%83%BD%E7%81%AB%E5%A4%9A%E4%B9%85/' target='_blank'>《哈利波特：魔法觉醒》手游能火多久？</a>
 * <a href='https://PhDLuffy.github.io/2021/09/24/Python%E5%A4%84%E7%90%86JSON%E6%A0%BC%E5%BC%8F%E6%96%87%E4%BB%B6/' target='_blank'>Python处理JSON格式文件</a>
-* <a href='https://PhDLuffy.github.io/2021/09/07/%E4%B8%AA%E4%BA%BA%E5%BC%80%E5%8F%91Apple-Watch%E5%BA%94%E7%94%A8-%E7%BF%BB%E7%BF%BBFran/' target='_blank'>个人开发Apple Watch应用-“翻翻Fran”</a>
 <!-- blog ends -->
 
 </td>
