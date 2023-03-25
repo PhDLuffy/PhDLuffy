@@ -8,6 +8,7 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2023/03/24/voicemeeter-liveprofessor-dr40x/' target='_blank'>VoiceMeeter基本设置</a>
 * <a href='https://PhDLuffy.github.io/2023/03/15/oracle-always-free-cpu-memory-network/' target='_blank'>Oracle甲骨文云永久免费VPS保活攻略</a>
 * <a href='https://PhDLuffy.github.io/2023/03/02/alipay-appstore-giftcard/' target='_blank'>手机支付宝也能购买美区充值卡啦</a>
 * <a href='https://PhDLuffy.github.io/2023/03/01/anki-obsidian/' target='_blank'>Anki与Obsidian联动制卡</a>
@@ -27,7 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2022/03/01/%E5%9C%88X-v2rayN%E6%A0%BC%E5%BC%8Fvmess%E8%8A%82%E7%82%B9%E6%B7%BB%E5%8A%A0/' target='_blank'>QuantumultX中v2rayN格式vmess节点添加</a>
 * <a href='https://PhDLuffy.github.io/2022/01/07/OpenSea%E5%85%8D%E8%B4%B9%E5%88%B6%E4%BD%9C%E5%B9%B6%E5%8F%91%E5%B8%83NFT/' target='_blank'>OpenSea免费制作并发布NFT</a>
 * <a href='https://PhDLuffy.github.io/2021/12/03/%E5%86%AC%E5%A4%A9%E5%86%B2%E5%87%BA%E4%B8%80%E6%9D%AF%E6%9A%96%E6%9A%96%E7%9A%84%E5%AE%8C%E7%BE%8E%E8%B1%86%E6%B5%86/' target='_blank'>冬天冲出一杯暖暖的完美豆浆</a>
-* <a href='https://PhDLuffy.github.io/2021/09/24/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9-%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92-%E6%89%8B%E6%B8%B8%E8%83%BD%E7%81%AB%E5%A4%9A%E4%B9%85/' target='_blank'>《哈利波特：魔法觉醒》手游能火多久？</a>
 <!-- blog ends -->
 
 </td>
