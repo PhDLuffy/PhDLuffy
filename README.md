@@ -8,6 +8,7 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2023/05/19/echosync-obsidian/' target='_blank'>测试文件夹文件自动移动归档</a>
 * <a href='https://PhDLuffy.github.io/2023/03/24/voicemeeter-liveprofessor-dr40x/' target='_blank'>VoiceMeeter基本设置</a>
 * <a href='https://PhDLuffy.github.io/2023/03/15/oracle-always-free-cpu-memory-network/' target='_blank'>Oracle甲骨文云永久免费VPS保活攻略</a>
 * <a href='https://PhDLuffy.github.io/2023/03/02/alipay-appstore-giftcard/' target='_blank'>手机支付宝也能购买美区充值卡啦</a>
@@ -27,7 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2022/03/07/%E7%BE%A4%E6%99%96%E5%88%A9%E7%94%A8Docker%E5%B0%86%E6%83%A0%E6%99%AEP1106%E5%8F%98%E8%BA%AB%E6%97%A0%E7%BA%BF%E6%89%93%E5%8D%B0%E6%9C%BA%E5%B9%B6%E6%94%AF%E6%8C%81airprint/' target='_blank'>群晖下利用Docker将惠普P1106变身无线打印机并支持airprint？</a>
 * <a href='https://PhDLuffy.github.io/2022/03/01/%E5%9C%88X-v2rayN%E6%A0%BC%E5%BC%8Fvmess%E8%8A%82%E7%82%B9%E6%B7%BB%E5%8A%A0/' target='_blank'>QuantumultX中v2rayN格式vmess节点添加</a>
 * <a href='https://PhDLuffy.github.io/2022/01/07/OpenSea%E5%85%8D%E8%B4%B9%E5%88%B6%E4%BD%9C%E5%B9%B6%E5%8F%91%E5%B8%83NFT/' target='_blank'>OpenSea免费制作并发布NFT</a>
-* <a href='https://PhDLuffy.github.io/2021/12/03/%E5%86%AC%E5%A4%A9%E5%86%B2%E5%87%BA%E4%B8%80%E6%9D%AF%E6%9A%96%E6%9A%96%E7%9A%84%E5%AE%8C%E7%BE%8E%E8%B1%86%E6%B5%86/' target='_blank'>冬天冲出一杯暖暖的完美豆浆</a>
 <!-- blog ends -->
 
 </td>
