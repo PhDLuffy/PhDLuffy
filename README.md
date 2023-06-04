@@ -8,6 +8,7 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2023/06/03/home-assistant-node-red-ir-aircondition/' target='_blank'>玩一玩空调</a>
 * <a href='https://PhDLuffy.github.io/2023/05/26/xiaoai-pro-hdmi-switch/' target='_blank'>解放双手懒人必备语音红外控制</a>
 * <a href='https://PhDLuffy.github.io/2023/05/19/echosync-obsidian/' target='_blank'>测试文件夹文件自动移动归档</a>
 * <a href='https://PhDLuffy.github.io/2023/03/24/voicemeeter-liveprofessor-dr40x/' target='_blank'>VoiceMeeter基本设置</a>
@@ -27,7 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2022/04/01/xiaomi4a-gigabit-openwrt-bridge/' target='_blank'>Openwrt旁路由桥接模式设置</a>
 * <a href='https://PhDLuffy.github.io/2022/03/11/PS3%E5%88%A9%E7%94%A8Hen%E6%BF%80%E6%B4%BBmultiman%E5%AE%89%E8%A3%85%E6%B8%B8%E6%88%8F/' target='_blank'>PS3利用Hen激活multiman安装游戏</a>
 * <a href='https://PhDLuffy.github.io/2022/03/07/%E7%BE%A4%E6%99%96%E5%88%A9%E7%94%A8Docker%E5%B0%86%E6%83%A0%E6%99%AEP1106%E5%8F%98%E8%BA%AB%E6%97%A0%E7%BA%BF%E6%89%93%E5%8D%B0%E6%9C%BA%E5%B9%B6%E6%94%AF%E6%8C%81airprint/' target='_blank'>群晖下利用Docker将惠普P1106变身无线打印机并支持airprint？</a>
-* <a href='https://PhDLuffy.github.io/2022/03/01/%E5%9C%88X-v2rayN%E6%A0%BC%E5%BC%8Fvmess%E8%8A%82%E7%82%B9%E6%B7%BB%E5%8A%A0/' target='_blank'>QuantumultX中v2rayN格式vmess节点添加</a>
 <!-- blog ends -->
 
 </td>
