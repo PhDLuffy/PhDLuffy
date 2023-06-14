@@ -8,6 +8,7 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2023/06/13/macrodeck-homeassistant-air-quality/' target='_blank'>终于可以在副屏上显示空气质量啦</a>
 * <a href='https://PhDLuffy.github.io/2023/06/12/v2rayu-clash-subconverter-macos/' target='_blank'>再见V2rayU，你好Clash</a>
 * <a href='https://PhDLuffy.github.io/2023/06/03/home-assistant-node-red-ir-aircondition/' target='_blank'>玩一玩空调</a>
 * <a href='https://PhDLuffy.github.io/2023/05/26/xiaoai-pro-hdmi-switch/' target='_blank'>解放双手懒人必备语音红外控制</a>
@@ -27,7 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2022/04/08/monitor-hdmi-dp-hdcp/' target='_blank'>比线团还乱的显示器和设备连接线</a>
 * <a href='https://PhDLuffy.github.io/2022/04/07/synology-docker-qinglong-jd/' target='_blank'>黑群晖Docker青龙面板薅京东羊毛</a>
 * <a href='https://PhDLuffy.github.io/2022/04/01/xiaomi4a-gigabit-openwrt-bridge/' target='_blank'>Openwrt旁路由桥接模式设置</a>
-* <a href='https://PhDLuffy.github.io/2022/03/11/PS3%E5%88%A9%E7%94%A8Hen%E6%BF%80%E6%B4%BBmultiman%E5%AE%89%E8%A3%85%E6%B8%B8%E6%88%8F/' target='_blank'>PS3利用Hen激活multiman安装游戏</a>
 <!-- blog ends -->
 
 </td>
