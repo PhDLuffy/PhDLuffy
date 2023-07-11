@@ -8,6 +8,7 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2023/07/10/zerossl-camesh-docker/' target='_blank'>自动申请泛域名证书</a>
 * <a href='https://PhDLuffy.github.io/2023/07/10/frp-https-homeassistant-smartthing/' target='_blank'>一环扣一环的问题链条</a>
 * <a href='https://PhDLuffy.github.io/2023/07/08/m1-ruby-jekyll-blog/' target='_blank'>第N次重复造轮子</a>
 * <a href='https://PhDLuffy.github.io/2023/06/13/macrodeck-homeassistant-air-quality/' target='_blank'>终于可以在副屏上显示空气质量啦</a>
@@ -27,7 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2022/06/08/Vlog-Portugal-Cape-Roca/' target='_blank'>Vlog12 【时光机】那年夏天宁静的罗卡角</a>
 * <a href='https://PhDLuffy.github.io/2022/04/27/Vlog-Portugal-moorish-castle/' target='_blank'>Vlog11 葡萄牙辛特拉摩尔城堡</a>
 * <a href='https://PhDLuffy.github.io/2022/04/14/quest2-black-screen-sensor/' target='_blank'>Quest2死亡黑屏解决方法</a>
-* <a href='https://PhDLuffy.github.io/2022/04/08/monitor-hdmi-dp-hdcp/' target='_blank'>比线团还乱的显示器和设备连接线</a>
 <!-- blog ends -->
 
 </td>
