@@ -8,6 +8,8 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2023/10/07/zerotier-planet-docker/' target='_blank'>frp的后备选择zerotier(更新)</a>
+* <a href='https://PhDLuffy.github.io/2023/10/06/trollstore-ios-ipa/' target='_blank'>TrollStore-取代AltStore的非越狱签名软件</a>
 * <a href='https://PhDLuffy.github.io/2023/08/13/zerotier-planet-docker/' target='_blank'>frp的后备选择zerotier</a>
 * <a href='https://PhDLuffy.github.io/2023/08/02/ehentai-exhentai-sadpanda/' target='_blank'>SadPanda已经成为历史</a>
 * <a href='https://PhDLuffy.github.io/2023/07/31/scoop-win-wiztree/' target='_blank'>如何像Mac上的Homebrew一样在Win上安装软件</a>
@@ -26,8 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2023/02/28/xui-v2ray-vmess-vless-trojan/' target='_blank'>X-UI添加节点</a>
 * <a href='https://PhDLuffy.github.io/2023/02/27/meta-quest2-air-screen/' target='_blank'>Quest2无法投屏到iPhone频繁断触无法连接</a>
 * <a href='https://PhDLuffy.github.io/2023/02/26/xiaomi-miot-home-assistant/' target='_blank'>小米智能家居在home-assistant中更新</a>
-* <a href='https://PhDLuffy.github.io/2023/01/05/quicklook-plugins/' target='_blank'>QuickLook以及插件安装</a>
-* <a href='https://PhDLuffy.github.io/2022/07/18/synology-docker-compose-xuexiqiangguo/' target='_blank'>群晖Docker安装容器之docker-compose方法</a>
 <!-- blog ends -->
 
 </td>
