@@ -8,6 +8,7 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2024/06/12/zotero-quicklook-mac-actions-tags/' target='_blank'>Zotero7的QuickLook失效了怎么办？</a>
 * <a href='https://PhDLuffy.github.io/2023/10/07/zerotier-planet-docker/' target='_blank'>frp的后备选择zerotier(更新)</a>
 * <a href='https://PhDLuffy.github.io/2023/10/06/trollstore-ios-ipa/' target='_blank'>TrollStore-取代AltStore的非越狱签名软件</a>
 * <a href='https://PhDLuffy.github.io/2023/08/13/zerotier-planet-docker/' target='_blank'>frp的后备选择zerotier</a>
@@ -27,7 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2023/03/01/anki-obsidian/' target='_blank'>Anki与Obsidian联动制卡</a>
 * <a href='https://PhDLuffy.github.io/2023/02/28/xui-v2ray-vmess-vless-trojan/' target='_blank'>X-UI添加节点</a>
 * <a href='https://PhDLuffy.github.io/2023/02/27/meta-quest2-air-screen/' target='_blank'>Quest2无法投屏到iPhone频繁断触无法连接</a>
-* <a href='https://PhDLuffy.github.io/2023/02/26/xiaomi-miot-home-assistant/' target='_blank'>小米智能家居在home-assistant中更新</a>
 <!-- blog ends -->
 
 </td>
