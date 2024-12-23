@@ -8,6 +8,7 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2024/12/22/home-assistant-node-red-trigger-change/' target='_blank'>Node-RED利用Trigger和Change来规避自循环问题</a>
 * <a href='https://PhDLuffy.github.io/2024/11/02/kindle-calibre-bookcover-lockscreen/' target='_blank'>制作Kindle书籍锁屏封面</a>
 * <a href='https://PhDLuffy.github.io/2024/09/06/windows-defender-Defender-Control/' target='_blank'>关闭Windows鸡肋般的Windows defender</a>
 * <a href='https://PhDLuffy.github.io/2024/09/04/kindle-calibre-mail/' target='_blank'>回忆往昔，好久没用邮件推送书到Kindle了</a>
@@ -27,7 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2023/06/03/home-assistant-node-red-ir-aircondition/' target='_blank'>玩一玩空调</a>
 * <a href='https://PhDLuffy.github.io/2023/05/26/xiaoai-pro-hdmi-switch/' target='_blank'>解放双手懒人必备语音红外控制</a>
 * <a href='https://PhDLuffy.github.io/2023/05/19/echosync-obsidian/' target='_blank'>测试文件夹文件自动移动归档</a>
-* <a href='https://PhDLuffy.github.io/2023/03/24/voicemeeter-liveprofessor-dr40x/' target='_blank'>VoiceMeeter基本设置</a>
 <!-- blog ends -->
 
 </td>
