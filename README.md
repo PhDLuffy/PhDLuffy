@@ -8,6 +8,8 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2025/04/03/github-branch-merge/' target='_blank'>Github新分支和分支合并</a>
+* <a href='https://PhDLuffy.github.io/2025/04/03/Tsui-Hark-The-Blade/' target='_blank'>徐克的《断刀客》</a>
 * <a href='https://PhDLuffy.github.io/2025/03/15/macos-login-items-background-tasks/' target='_blank'>删除无效的MacOS登录项目</a>
 * <a href='https://PhDLuffy.github.io/2024/12/26/synology-dsm-moments-face/' target='_blank'>群晖DSM6.2.1-23824照片Moments智能相册bug修复</a>
 * <a href='https://PhDLuffy.github.io/2024/12/22/home-assistant-node-red-trigger-change/' target='_blank'>Node-RED利用Trigger和Change来规避自循环问题</a>
@@ -26,8 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2023/07/10/frp-https-homeassistant-smartthing/' target='_blank'>一环扣一环的问题链条</a>
 * <a href='https://PhDLuffy.github.io/2023/07/08/m1-ruby-jekyll-blog/' target='_blank'>第N次重复造轮子</a>
 * <a href='https://PhDLuffy.github.io/2023/06/13/macrodeck-homeassistant-air-quality/' target='_blank'>终于可以在副屏上显示空气质量啦</a>
-* <a href='https://PhDLuffy.github.io/2023/06/12/v2rayu-clash-subconverter-macos/' target='_blank'>再见V2rayU，你好Clash</a>
-* <a href='https://PhDLuffy.github.io/2023/06/03/home-assistant-node-red-ir-aircondition/' target='_blank'>玩一玩空调</a>
 <!-- blog ends -->
 
 </td>
