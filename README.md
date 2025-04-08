@@ -8,6 +8,7 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2025/04/07/Agatha-The-Murder-of-Roger-Ackroyd/' target='_blank'>读阿加莎《罗杰谜案》</a>
 * <a href='https://PhDLuffy.github.io/2025/04/03/github-branch-merge/' target='_blank'>Github新分支和分支合并</a>
 * <a href='https://PhDLuffy.github.io/2025/04/03/Tsui-Hark-The-Blade/' target='_blank'>徐克的《断刀客》</a>
 * <a href='https://PhDLuffy.github.io/2025/03/15/macos-login-items-background-tasks/' target='_blank'>删除无效的MacOS登录项目</a>
@@ -27,7 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2023/07/10/zerossl-camesh-docker/' target='_blank'>自动申请泛域名证书</a>
 * <a href='https://PhDLuffy.github.io/2023/07/10/frp-https-homeassistant-smartthing/' target='_blank'>一环扣一环的问题链条</a>
 * <a href='https://PhDLuffy.github.io/2023/07/08/m1-ruby-jekyll-blog/' target='_blank'>第N次重复造轮子</a>
-* <a href='https://PhDLuffy.github.io/2023/06/13/macrodeck-homeassistant-air-quality/' target='_blank'>终于可以在副屏上显示空气质量啦</a>
 <!-- blog ends -->
 
 </td>
