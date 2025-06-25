@@ -8,6 +8,7 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2025/06/24/static-route-reverse/' target='_blank'>子路由和主路由设备互通</a>
 * <a href='https://PhDLuffy.github.io/2025/05/02/Akinai-Seiden-Kin-to-Gin/' target='_blank'>看日剧《金与银小本经营第二季》</a>
 * <a href='https://PhDLuffy.github.io/2025/04/28/Decameron-Boccaccio/' target='_blank'>读薄伽丘《十日谈》</a>
 * <a href='https://PhDLuffy.github.io/2025/04/07/Agatha-The-Murder-of-Roger-Ackroyd/' target='_blank'>读阿加莎《罗杰谜案》</a>
@@ -27,7 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2023/08/13/zerotier-planet-docker/' target='_blank'>frp的后备选择zerotier</a>
 * <a href='https://PhDLuffy.github.io/2023/08/02/ehentai-exhentai-sadpanda/' target='_blank'>SadPanda已经成为历史</a>
 * <a href='https://PhDLuffy.github.io/2023/07/31/scoop-win-wiztree/' target='_blank'>如何像Mac上的Homebrew一样在Win上安装软件</a>
-* <a href='https://PhDLuffy.github.io/2023/07/10/zerossl-camesh-docker/' target='_blank'>自动申请泛域名证书</a>
 <!-- blog ends -->
 
 </td>
