@@ -8,6 +8,7 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2025/10/04/docker-beszel-bark/' target='_blank'>通过docker安装beszel监控主机性能</a>
 * <a href='https://PhDLuffy.github.io/2025/07/22/mac-arm-matlab/' target='_blank'>Mac安装arm版本的MATLAB</a>
 * <a href='https://PhDLuffy.github.io/2025/06/24/static-route-reverse/' target='_blank'>子路由和主路由设备互通</a>
 * <a href='https://PhDLuffy.github.io/2025/05/02/Akinai-Seiden-Kin-to-Gin/' target='_blank'>看日剧《金与银小本经营第二季》</a>
@@ -27,7 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2023/10/07/zerotier-planet-docker/' target='_blank'>frp的后备选择zerotier(更新)</a>
 * <a href='https://PhDLuffy.github.io/2023/10/06/trollstore-ios-ipa/' target='_blank'>TrollStore-取代AltStore的非越狱签名软件</a>
 * <a href='https://PhDLuffy.github.io/2023/08/13/zerotier-planet-docker/' target='_blank'>frp的后备选择zerotier</a>
-* <a href='https://PhDLuffy.github.io/2023/08/02/ehentai-exhentai-sadpanda/' target='_blank'>SadPanda已经成为历史</a>
 <!-- blog ends -->
 
 </td>
