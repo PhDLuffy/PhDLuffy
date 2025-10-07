@@ -8,6 +8,7 @@
 #### 🤹‍♀️ <a href="https://phdluffy.com/" target="_blank">我的个人博客网站每日自动更新（PhDLuffy.com）</a>
 
 <!-- blog starts -->
+* <a href='https://PhDLuffy.github.io/2025/10/06/docker-scrutiny-synology/' target='_blank'>scrutiny硬盘温度监控</a>
 * <a href='https://PhDLuffy.github.io/2025/10/04/docker-beszel-bark/' target='_blank'>通过docker安装beszel监控主机性能</a>
 * <a href='https://PhDLuffy.github.io/2025/07/22/mac-arm-matlab/' target='_blank'>Mac安装arm版本的MATLAB</a>
 * <a href='https://PhDLuffy.github.io/2025/06/24/static-route-reverse/' target='_blank'>子路由和主路由设备互通</a>
@@ -27,7 +28,6 @@
 * <a href='https://PhDLuffy.github.io/2024/06/12/zotero-quicklook-mac-actions-tags/' target='_blank'>Zotero7的QuickLook失效了怎么办？</a>
 * <a href='https://PhDLuffy.github.io/2023/10/07/zerotier-planet-docker/' target='_blank'>frp的后备选择zerotier(更新)</a>
 * <a href='https://PhDLuffy.github.io/2023/10/06/trollstore-ios-ipa/' target='_blank'>TrollStore-取代AltStore的非越狱签名软件</a>
-* <a href='https://PhDLuffy.github.io/2023/08/13/zerotier-planet-docker/' target='_blank'>frp的后备选择zerotier</a>
 <!-- blog ends -->
 
 </td>
